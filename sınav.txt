@@ -1,0 +1,14 @@
+Stephen Hawking:100
+Gary Kasparov:75
+Albert Einstein:78
+Paul Erdos:100
+Pierre De Fermat:68
+Isaac Newton:72
+Wilhelm von Leibniz:86
+Max Planc:90
+Werner Heisenberg:88
+Kurt Godel:92
+Leonhard Euler:91
+Cahit Arf:100
+Paul Dirac:68
+Alan Turing:95
