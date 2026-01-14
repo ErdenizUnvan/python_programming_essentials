@@ -1,5 +1,6 @@
 "# python_programming_essentials" 
 
-Python'a giriş derslerimde öğrencilerim için yazdığım kodlardan bazıları:
 Eğitim Videoları:
-https://www.youtube.com/@knowledgeclub3738
+
+https://www.youtube.com/watch?v=T20jpNJYJwE&list=PLqu2KTTAkBVFiNsPi238uxcRSv8q_Y2S9
+
